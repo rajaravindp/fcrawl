@@ -15,7 +15,7 @@ Extract webpage content, generate concise summary using AWS Bedrock, and convert
 
 # Env vars
 Add these to your <code>.env</code> file
-<code> 
+<code>
 FIRECRAWL_API_KEY=your_firecrawl_api_key
 AWS_ACCESS_KEY_ID=your_aws_access_key
 AWS_SECRET_ACCESS_KEY=your_aws_secret_key
