@@ -11,6 +11,7 @@ Extract webpage content, generate concise summary using AWS Bedrock, and convert
 - AWS account with access to Bedrock and Polly services
 - Boto3 and Botocore
 - Firecrawl API key
+- Tiktokken/ Accelerate
 
 # Env vars
 Add these to your <code>.env</code> file
